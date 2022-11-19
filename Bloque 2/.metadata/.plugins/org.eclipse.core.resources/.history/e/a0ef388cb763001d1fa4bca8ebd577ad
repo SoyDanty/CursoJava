@@ -1,0 +1,20 @@
+
+import java.util.Scanner;
+
+public class Bloque23 {
+
+	public static void main(String[] arg) {
+		
+		char letra;
+		
+		letra = '%';
+		
+		if (letra == 'p') {
+			System.out.println("El valor es p");
+		}else {
+			System.out.println("El valor no es p");
+		}
+		
+	}
+	
+}

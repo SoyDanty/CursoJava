@@ -1,0 +1,12 @@
+//Programa que explica qué son los atributos
+public class Bloque13 {
+
+	public static void main(String[] arg) {
+		
+		int x;
+		x = 10;
+		
+		System.out.println("El valor de x es: " + x);
+	}
+	
+}

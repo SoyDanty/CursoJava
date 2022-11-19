@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\EtnaD\Desktop\Programación\Curso Java\Bloque 3\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1183866088.index
+2952002013.index
+3751349586.index
+832007294.index
+1319684068.index

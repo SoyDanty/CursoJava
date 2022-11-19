@@ -1,0 +1,22 @@
+
+import java.util.Scanner;
+
+public class Bloque23 {
+
+	public static void main(String[] arg) {
+		
+		char letra;
+		
+		letra = '3';
+		
+		switch(letra) {
+		case 'b' : System.out.println("El valor es b"); break;
+		case '2' : System.out.println("El valor es 2"); break;
+		case '%' : System.out.println("El valor es %"); break;
+		case 'p' : System.out.println("El valor es p"); break;
+		default : System.out.println("El valor que estás buscando no existe");
+		}
+		
+	}
+	
+}
